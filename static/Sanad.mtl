@@ -1,0 +1,229 @@
+newmtl Anchor_SparseSG
+illum 4
+Kd 0.02 0.02 0.02
+Ka 0.49 0.49 0.49
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 48.00
+newmtl Anchor_ThickSG
+illum 4
+Kd 0.02 0.02 0.02
+Ka 0.49 0.49 0.49
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 48.00
+newmtl CC_Base_BodySG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.49 0.49 0.49
+Tf 1.00 1.00 1.00
+map_Kd Std_Nails_Diffuse.jpg
+bump  -bm 1 Std_Nails_Normal.png
+Ni 1.00
+Ks 0.27 0.27 0.27
+Ns 18.00
+newmtl CC_Base_BodySG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.49 0.49 0.49
+Tf 1.00 1.00 1.00
+map_Kd Std_Eyelash_Diffuse.jpg
+bump  -bm 1 Std_Eyelash_Normal.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CC_Base_TearLineSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Std_Tearline_R_Diffuse.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CC_Base_TearLineSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Std_Tearline_L_Diffuse.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CC_Base_TeethSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.49 0.49 0.49
+Tf 1.00 1.00 1.00
+map_Kd Std_Upper_Teeth_Diffuse.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CC_Base_TeethSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.49 0.49 0.49
+Tf 1.00 1.00 1.00
+map_Kd Std_Lower_Teeth_Diffuse.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CC_Base_TongueSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl Chin_Curtain_SparseSG
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.49 0.49 0.49
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 48.00
+newmtl MaleHair_simpleFringe_geoSG
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.05 0.05 0.05
+Tf 1.00 1.00 1.00
+bump  -bm 0.45 mat_hair_short_straight_Transparency_Normal.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 23.00
+newmtl Mustache_ChevronSG
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.49 0.49 0.49
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 48.00
+newmtl Mustache_LampshadeSG
+illum 4
+Kd 0.04 0.04 0.04
+Ka 0.49 0.49 0.49
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 48.00
+newmtl Sideburns_SparseSG
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.49 0.49 0.49
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 48.00
+newmtl Sideburns_ThickSG
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.49 0.49 0.49
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 48.00
+newmtl aiStandardSurface1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd JACIT_UV__Diffuse.png
+Ni 1.00
+newmtl aiStandardSurface2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Material_002_Diffuse.png
+Ni 1.00
+newmtl aiStandardSurface3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl aiStandardSurface4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Std_Skin_Arm_Diffuse.jpg
+Ni 1.00
+newmtl aiStandardSurface5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Material_001_Transparency_Transparency_Diffuse.png
+Ni 1.00
+newmtl aiStandardSurface6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl aiStandardSurface7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Std_Skin_Head_Diffuse.jpg
+Ni 1.00
+newmtl aiStandardSurface8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Std_Cornea_L_Diffuse.png
+Ni 1.00
+newmtl asBlackSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl asBlue2SG
+illum 4
+Kd 0.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl asBlueSG
+illum 4
+Kd 0.00 0.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl asGreen2SG
+illum 4
+Kd 1.00 1.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl asGreenSG
+illum 4
+Kd 0.00 1.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl asRedSG
+illum 4
+Kd 1.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl asWhiteSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
