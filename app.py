@@ -24,7 +24,7 @@ app = Flask(__name__)
 # Configure Gemini API
 try:
     genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel('gemini-1.5-flash-latest')
+    model = genai.GenerativeModel('gemini-2.5-flash-latest')
     print("✅ Google Gemini API configured successfully.")
 except Exception as e:
     print(f"🔴 FATAL ERROR: Could not configure Gemini API: {e}")
@@ -127,4 +127,5 @@ def api_translate():
 
 if __name__ == "__main__":
     app.run(debug=True, host='0.0.0.0')
+
 
